@@ -121,7 +121,7 @@ function example() {
 
 Highlighting is a way to highlight specific text. It isn't commonly used, but exists.
 
-> <Highlight color="#DC2626">Highlighted Text</Highlight> like this.
+> <Highlight color="#DC2626">Highlighted Text</Highlight> looks like this.
 
 ## Standardized Elements
 
