@@ -83,3 +83,4 @@ Writing text components manually can be tedious - there are numerous generators 
 - [Minecraft Tools](https://minecraft.tools/tellraw.php)
 - [MinecraftJSON.com](https://minecraftjson.com/)
 - [Misode](https://misode.github.io/text-component)
+- [Datapack Hub](https://text.datapackhub.net/)
