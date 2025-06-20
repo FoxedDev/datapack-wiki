@@ -86,7 +86,7 @@
     </button>
     <a
       href="https://discord.gg/xHTHbZqXr6"
-      class="bg-black/45 p-2 rounded-lg py-1 flex items-center gap-2 hover:text-stone-100 hover:bg-indigo-500 aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-dph-orange"
+      class="bg-black/45 p-2 rounded-lg py-1 flex items-center gap-2 hover:text-stone-100 aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-dph-orange"
       aria-label="Discord">
       <IconDiscord />
       <span class="hidden sm:block">Discord</span>
